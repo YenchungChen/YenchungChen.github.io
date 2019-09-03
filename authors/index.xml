@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Yen-Chung Chen</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>&lt;b&gt;Yen-Chung Chen*&lt;/b&gt;</title>
+      <link>/authors/byen-chung-chen/b/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/byen-chung-chen/b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keng-Jui Chang*</title>
+      <link>/authors/keng-jui-chang/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/keng-jui-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei-Chen Chiu</title>
+      <link>/authors/wei-chen-chiu/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/wei-chen-chiu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi-Hsuan Tsai</title>
+      <link>/authors/yi-hsuan-tsai/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yi-hsuan-tsai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu-Chiang Frank Wang</title>
+      <link>/authors/yu-chiang-frank-wang/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yu-chiang-frank-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Research Assistant at National Chiao Tung University (NCTU) CS, recently graduated from NCTU with a Master&amp;rsquo;s degree in Computer Science. I&amp;rsquo;m now working with &lt;a href=&#34;https://walonchiu.github.io/&#34; target=&#34;_blank&#34;&gt;Prof. Wei-Chen Chiu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m working on a few projects on image/video enhancement, including video frame interpolation and video super-resolution.&lt;/p&gt;
+
+&lt;p&gt;During my graduate studies, I worked on saliency-guided image manipulation and image enhancement under &lt;a href=&#34;https://walonchiu.github.io/&#34; target=&#34;_blank&#34;&gt;Prof. Wei-Chen Chiu&lt;/a&gt; and &lt;a href=&#34;https://sites.google.com/site/yihsuantsai/&#34; target=&#34;_blank&#34;&gt;Dr. Yi-Hsuan Tsai&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
